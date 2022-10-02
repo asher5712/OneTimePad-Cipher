@@ -1,4 +1,4 @@
-import OneTimePadCipher as cipher
+import PyFiles.OneTimePadCipher as cipher
 
 coder = cipher.OTPCipher()
 print('----------------Message Encryption----------------')
